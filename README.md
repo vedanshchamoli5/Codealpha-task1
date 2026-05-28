@@ -12,6 +12,7 @@ Sepal Length
 Sepal Width
 Petal Length
 Petal Width
+
 🌼 Iris Species
 
 The model classifies flowers into:
@@ -19,6 +20,7 @@ The model classifies flowers into:
 Iris Setosa
 Iris Versicolor
 Iris Virginica
+
 🧠 Machine Learning Workflow
 Data Collection
 Data Preprocessing
@@ -26,6 +28,7 @@ Exploratory Data Analysis (EDA)
 Model Training
 Model Evaluation
 Prediction
+
 📂 Dataset Information
 
 The dataset contains 150 samples with 4 input features and 3 output classes.
@@ -35,6 +38,7 @@ Sepal Length	Length of the sepal
 Sepal Width	Width of the sepal
 Petal Length	Length of the petal
 Petal Width	Width of the petal
+
 🛠️ Technologies Used
 Python
 NumPy
@@ -43,6 +47,7 @@ Matplotlib
 Seaborn
 Scikit-learn
 Jupyter Notebook
+
 📊 Model Used
 
 Some commonly used models for Iris Classification:
@@ -52,6 +57,7 @@ Decision Tree
 Random Forest
 Support Vector Machine (SVM)
 K-Nearest Neighbors (KNN)
+
 🚀 Installation & Setup
 
 Clone the repository:
@@ -69,8 +75,10 @@ pip install -r requirements.txt
 Run the notebook or Python file:
 
 jupyter notebook
+
 📈 Sample Output
 Predicted Flower Species: Iris Setosa
+
 📷 Project Preview
 
 
@@ -78,10 +86,12 @@ Confusion Matrix
 Accuracy Score
 Pair Plot Visualization
 Feature Distribution Graphs
+
 🎯 Results
 Achieved high accuracy on test data
 Successfully classified iris flower species
 Demonstrated the basics of supervised machine learning
+
 📚 Learning Outcomes
 
 Through this project, you will learn:
