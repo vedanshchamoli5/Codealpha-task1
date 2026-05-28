@@ -111,4 +111,6 @@ Feel free to fork this repository and submit pull requests.
 
 Vedansh Chamoli
 
+deployment link- http://www.datazenix.site/
+
 If you like this project, give it a ⭐ on GitHub!# Codealpha-task1
